@@ -1,0 +1,12 @@
+#bad {
+  display: none;
+  color: red;
+}
+#good {
+  display: none;
+  color: yellow;
+}
+#excellent {
+  display: none;
+  color: green;
+}
